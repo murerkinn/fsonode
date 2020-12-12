@@ -1,0 +1,28 @@
+{
+  "name": "fsonode",
+  "version": "1.0.0",
+  "description": "This repository is for the exercises starting from part3 of Full Stack Open course.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murerkinn/fsonode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murerkinn/fsonode/issues"
+  },
+  "homepage": "https://github.com/murerkinn/fsonode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
